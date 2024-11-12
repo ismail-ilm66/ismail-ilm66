@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing mobile apps using Flutter and Dart<br>👯 I’m looking to collaborate on exciting app ideas, especially those that involve mobile development and user-centered design.<br>🤝 I’m looking for help with improving my skills in advanced backend development and machine learning integrations.💬 Ask me about Flutter development, mobile app design, RESTFUL Apis , Websockets, and Firebase integration.<br>⚡ Fun fact I enjoy turning innovative ideas into functional mobile apps!
+🔭 I’m currently working on developing mobile apps using Flutter and Dart<br>👯 I’m looking to collaborate on exciting app ideas, especially those that involve mobile development and user-centered design.<br>🤝 I’m looking for help with improving my skills in advanced backend development and machine learning integrations.<br>💬 Ask me about Flutter development, mobile app design, RESTFUL Apis , Websockets, and Firebase integration.<br>⚡ Fun fact I enjoy turning innovative ideas into functional mobile apps!
 
 
 ## 🌐 Socials:
