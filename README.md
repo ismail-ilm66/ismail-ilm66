@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-ilm) 
-[![Portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ismail-ilm](https://ismailportfolio-six.vercel.app/)) 
+[![Portfolio]]([https://linkedin.com/in/ismail-ilm](https://ismailportfolio-six.vercel.app/)) 
 
 
 # 💻 Tech Stack:
